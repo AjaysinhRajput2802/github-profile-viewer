@@ -1,6 +1,12 @@
 # [GitHub Profile Viewer](https://heroic-halva-2ab300.netlify.app/)
 
-This project is developed in ReactJS to show a Github repositories listing page by passing the required Github username. I have used GitHub REST API here.
+This project is developed to show a Github repositories listing page by passing the required Github username. It is also responsive on all devices.
+
+### Required Technologies
+* GitHub REST API
+* ReactJS
+* NodeJS
+* bootstrap
 
 ## Assumptions
 1. Only two types of error occur: 
