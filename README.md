@@ -6,6 +6,14 @@ This project is developed in ReactJS to show a Github repositories listing page 
 1. Only two types of error occur: 
     1. API rate limit(60 requests per hour) exceeded.
     2. Invalid Username
+  
+## Run in Development Mode
+```shell
+$ git clone https://github.com/AjaysinhRajput2802/github-profile-viewer.git
+$ cd github-profile-viewer
+$ npm install
+$ npm start
+```
 
 ## Available Scripts
 
