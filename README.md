@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# GitHub Profile Viewer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is developed in ReactJS to show a Github repositories listing page by passing the required Github username. I have used GitHub REST API here.
+
+## Assumptions
+1. Only two types of error occur: 
+    1. API rate limit(60 requests per hour) exceeded.
+    2. Invalid Username
 
 ## Available Scripts
 
