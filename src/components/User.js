@@ -75,8 +75,8 @@ const User = () => {
     setLoading(false);
   }, [API, currentPage]);
 
-  if (Error404) return <Error404Page />;
-  if (ErrorAPI) return <ErrorAPIPage />;
+  if (Error404) return <Error404Page goHome={goHome}/>;
+  if (ErrorAPI) return <ErrorAPIPage goHome={goHome}/>;
 
   return (
     <div>
