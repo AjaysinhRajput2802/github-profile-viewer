@@ -11,7 +11,7 @@ Final Project Link: https://heroic-halva-2ab300.netlify.app/
 * bootstrap
 
 ## Assumptions
-1. Only two types of error occur: 
+1. Only two types of error may occur: 
     1. API rate limit(60 requests per hour) exceeded.
     2. Invalid Username
   
