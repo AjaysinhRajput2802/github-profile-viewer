@@ -1,8 +1,8 @@
-# [GitHub Profile Viewer](https://heroic-halva-2ab300.netlify.app/)
+# <a href="https://heroic-halva-2ab300.netlify.app/" target="_blank">GitHub Profile Viewer</a>
 
 This project is developed to show a Github repositories listing page by passing the required Github username. The final output of the project is delivered as a web application which is responsive on all devices.
 
-Final Project Link: https://heroic-halva-2ab300.netlify.app/
+Final Project Link:  <a href="https://heroic-halva-2ab300.netlify.app/" target="_blank">https://heroic-halva-2ab300.netlify.app/</a>
 
 ### Required Technologies
 * GitHub REST API
