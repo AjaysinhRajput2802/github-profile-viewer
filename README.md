@@ -1,4 +1,4 @@
-# GitHub Profile Viewer
+<h1 align="center">GitHub Profile Viewer</h1>
 
 This project is developed in ReactJS to show a Github repositories listing page by passing the required Github username. I have used GitHub REST API here.
 
