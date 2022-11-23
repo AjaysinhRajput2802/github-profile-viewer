@@ -1,0 +1,36 @@
+ul{
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.pageButtons{
+    display: inline-block;
+    margin: 5px 8vw;
+}
+
+li .page-link{
+    background-color: white;
+    color: #085454;
+}
+
+li.page-item.active .page-link
+{
+    background-color: #085454;
+    color: white;
+}
+
+.button{
+    background-color: #085454;
+    color: white;
+}
+
+.button:hover{
+    background-color: #002333;
+    color: white;
+}
+
+.button.disabled{
+    background-color: #159A9C;
+    color: white;
+    border-color: white;
+}
