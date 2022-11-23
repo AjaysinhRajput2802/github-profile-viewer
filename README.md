@@ -7,7 +7,7 @@ This project is developed in ReactJS to show a Github repositories listing page 
     1. API rate limit(60 requests per hour) exceeded.
     2. Invalid Username
   
-## Run in Development Mode
+## Run on local machine in Development Mode
 
 #### Copy and paste below script in terminal to run the web application :)
 ```shell
